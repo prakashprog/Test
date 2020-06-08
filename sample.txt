@@ -10,3 +10,7 @@ Type git commit.
 
 
 new line  by me
+
+new line  by me1
+
+new line  by me2
