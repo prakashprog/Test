@@ -1,4 +1,4 @@
-A new repo from an existing project
+﻿A new repo from an existing project
 Say you’ve got an existing project that you want to start tracking with git.
 
 Go into the directory containing the project.
@@ -18,3 +18,5 @@ new line  by me2
 new line  by me3
 
 added in GIT WEb UI
+
+added in brach task1
