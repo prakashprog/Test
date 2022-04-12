@@ -22,3 +22,5 @@ added in GIT WEb UI
 added in brach task1
 
 added in brach task1 from GitHUB UI
+
+line 2 git checkout master
